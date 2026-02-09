@@ -1,0 +1,11 @@
+# Academic Paper Writer Dependencies
+# Python 3.9+ required
+
+# No external dependencies required
+# Uses only Python standard library:
+# - pathlib
+# - json
+# - datetime
+# - urllib
+# - zipfile
+# - shutil
